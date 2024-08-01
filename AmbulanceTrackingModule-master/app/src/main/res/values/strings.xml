@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AmbulanceTracking</string>
+    <string name="title_activity_maps">AmbulanceTrackingModule</string>
+    <string name="apikey">AIzaSyB2XE6CR1qwbF8ynzqODxASsgw9AfreP7Y</string>
+    <string name="ambulance_tracker">Ambulance Tracker</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_cnic">This cnic no.is invalid.</string>
+    <string name="error_incorrect_password">Password should be of atleast 8 characters which must contain one lower case, one upper case, one special character and one digit.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="number">
+        <item>03313774424</item>
+        <item>03104491033</item>
+        <item>03447196594</item>
+        <item>03324846538</item>
+        <item>03367322317</item>
+        <item>03104489243</item>
+    </string-array>
+</resources>
